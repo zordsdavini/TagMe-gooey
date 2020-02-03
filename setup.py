@@ -15,7 +15,7 @@ setup(
     entry_points={
         "console_scripts": ['tagme = TagMeGooey.gooey_ui:main']
         },
-    dependency_links = ['http://github.com/zordsdavini/TagMe/tarball/master#egg=tagme-0.0.4'],
+    dependency_links = ['http://github.com/zordsdavini/TagMe/tarball/master#egg=tagme-0.0.7'],
     install_requires=[
         'TagMe',
         'Gooey',
